@@ -1,0 +1,10 @@
+let a=10;
+console.log(typrof(a));
+a="abc";
+console.log(typrof(a));
+a="true";
+console.log(typrof(a));
+a=1.00;
+console.log(typrof(a));
+let b;
+console.log(typrof(b));
